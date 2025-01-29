@@ -1,0 +1,18 @@
+INFO:root:Task ID: a9334a57-d7dd-44e8-8941-0e2967203267 - Process started.
+INFO:root:Task ID: a9334a57-d7dd-44e8-8941-0e2967203267 - User selected resolution: 720
+ERROR:root:Task ID: a9334a57-d7dd-44e8-8941-0e2967203267 - [0;31mERROR:[0m You have requested merging of multiple formats but ffmpeg is not installed. Aborting due to --abort-on-error
+INFO:root:Task ID: 336c8ded-c656-4a35-8901-f8d408791d89 - Process started.
+INFO:root:Task ID: 336c8ded-c656-4a35-8901-f8d408791d89 - User selected resolution: 720
+ERROR:root:Task ID: 336c8ded-c656-4a35-8901-f8d408791d89 - [0;31mERROR:[0m You have requested merging of multiple formats but ffmpeg is not installed. Aborting due to --abort-on-error
+INFO:root:Task ID: 4de9eb52-8857-4ece-b8e9-215274545105 - Process started.
+INFO:root:Task ID: 4de9eb52-8857-4ece-b8e9-215274545105 - User selected resolution: 720
+INFO:root:Task ID: 4de9eb52-8857-4ece-b8e9-215274545105 - Process completed successfully.
+INFO:root:Task ID: 150dce83-966a-458d-b1d8-f4391109f064 - Process started.
+INFO:root:Task ID: 150dce83-966a-458d-b1d8-f4391109f064 - User selected audio download.
+INFO:root:Task ID: 150dce83-966a-458d-b1d8-f4391109f064 - Process completed successfully.
+INFO:root:Task ID: b5a3021a-7ca8-4bdc-aec8-63a06d4df636 - Process started.
+INFO:root:Task ID: b5a3021a-7ca8-4bdc-aec8-63a06d4df636 - User selected audio format: mp3
+INFO:root:Task ID: b5a3021a-7ca8-4bdc-aec8-63a06d4df636 - Process completed successfully.
+INFO:root:Task ID: bd3bad76-c468-40a6-b100-cbf8035fb2fe - Process started.
+INFO:root:Task ID: bd3bad76-c468-40a6-b100-cbf8035fb2fe - User selected resolution: 720
+INFO:root:Task ID: bd3bad76-c468-40a6-b100-cbf8035fb2fe - Process completed successfully.
