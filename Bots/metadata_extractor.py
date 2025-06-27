@@ -12,7 +12,7 @@ def get_video_metadata(video_id):
         dict: A dictionary containing metadata such as title, description, duration, etc.
     """
     # Replace with your YouTube Data API key
-    API_KEY = "AIzaSyBrZkmYjODluo8V-HJKz7P0p9hqk7IyKvA"
+    API_KEY = "YOUR_API_KEY"
     youtube = build('youtube', 'v3', developerKey=API_KEY)
 
     # Fetch video details
