@@ -87,15 +87,28 @@ cd YT_downloader
 pip install -r requirements.txt
 ```
 
-3. **Set your YouTube Data API key** in `metadata_extractor.py`:
+3. ## 🔑 Get a YouTube Data API Key (Required for `metadata_extractor.py`)
+
+Follow these steps to obtain your API key:
+
+1. Go to the [Google Cloud Console](https://console.cloud.google.com/).
+2. Create a new project or select an existing one.
+3. In the left-hand sidebar, navigate to **APIs & Services > Library**.
+4. Search for **YouTube Data API v3** and click **Enable**.
+5. Next, go to **APIs & Services > Credentials**.
+6. Click **+ Create Credentials** and choose **API Key**.
+7. Copy the generated key.
+
+🔧 **Update your script:**
+
+Open `metadata_extractor.py` and replace the placeholder with your API key:
 
 ```python
 API_KEY = "your_api_key_here"
 ```
+4. **Run the main coordinator:** 
 
-4. **Run the main coordinator**:
-
-```bash
+```
 python main.py
 ```
 
