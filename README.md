@@ -22,7 +22,7 @@ An AI-powered modular system for searching, analyzing, and downloading YouTube v
 ### 🔹 `download_manager.py`
 Handles downloading:
 - Videos at a chosen resolution (`mp4` by default)
-- Audio extraction (`mp3` via FFmpeg)
+- Audio extraction (`mp3` via FFmpeg )
 
 ### 🔹 `input_processor.py`
 Cleans and normalizes raw user input using regex for downstream NLP processing.
